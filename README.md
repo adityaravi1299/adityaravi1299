@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://github.com/adityaravi1299/adityaravi1299/blob/output/github-contribution-grid-snake.svg" alt="snake-game" />
+</div>
 <!--
 **adityaravi1299/adityaravi1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
